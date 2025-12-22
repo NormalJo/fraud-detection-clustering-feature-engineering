@@ -1,7 +1,7 @@
 # Fraud Detection with Clustering-Based Feature Engineering
 
 ## Overview
-This project detects fraudulent credit card transactions using **traditional feature engineering**, **unsupervised clustering**, and **supervised machine learning**. The key idea is to use clustering to capture latent transaction behavior and turn that information into features that improve fraud classification on a highly imbalanced dataset. :contentReference[oaicite:0]{index=0}
+This project detects fraudulent credit card transactions using **traditional feature engineering**, **unsupervised clustering**, and **supervised machine learning**. The key idea is to use clustering to capture latent transaction behavior and turn that information into features that improve fraud classification on a highly imbalanced dataset. 
 
 ## Problem Statement
 Credit card fraud detection is a **binary classification** problem where fraud is extremely rare.
