@@ -15,33 +15,7 @@ The goal is to **maximize fraud detection (recall)** while keeping **false posit
 
 ---
 
-Raw Transaction Data
-
-        ↓
-        
-Feature Engineering
-(time features, spending ratios, etc.)
-
-        ↓
-        
-Dimensionality Reduction (PCA)
-
-        ↓
-        
-Clustering (K-Means / Agglomerative)
-
-        ↓
-        
-Cluster-Based Features
-
-        ↓
-        
-Supervised Models
-(Logistic Regression, Random Forest, XGBoost)
-
-        ↓
-        
-Fraud Prediction
+Raw Transaction Data -> Feature Engineering (time features, spending ratios, etc.) -> Dimensionality Reduction (PCA) -> Clustering (K-Means / Agglomerative) -> Cluster-Based Features -> Supervised Models (Logistic Regression, Random Forest, XGBoost) -> Fraud Prediction
 
 ---
 
