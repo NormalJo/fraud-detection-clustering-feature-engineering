@@ -164,3 +164,15 @@ Python • pandas • NumPy • scikit-learn • imbalanced-learn • XGBoost �
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+## Project Structure
+
+```
+fraud-detection-clustering-feature-engineering/
+│
+├── fraud_detection.ipynb   # Main analysis notebook
+├── README.md               # Project documentation
+├── requirements.txt        # Python dependencies
+└── .gitignore              # Files ignored by git
+```
